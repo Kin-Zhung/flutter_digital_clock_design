@@ -6,11 +6,13 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  percent_indicator: "^2.1.1"
   flutter:
     sdk: flutter
   flutter_clock_helper:
     path: ../flutter_clock_helper
   cupertino_icons: ^0.1.2
+  
 
 dev_dependencies:
   flutter_test:
